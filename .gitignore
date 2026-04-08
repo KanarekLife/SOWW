@@ -1,2 +1,4 @@
 mpi
 .vscode/
+openmp
+openmp+mpi
